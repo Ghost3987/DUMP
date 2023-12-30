@@ -1,11 +1,13 @@
 * Owner
-* Hannan AnSari
+* Ghost King
 
 ```
-rm -rf FILE
-git clone --depth=1 https://github.com/Hannan-404/FILE
-cd FILE
-python FILE.py
+rm -rf DUMP
+git clone https://github.com/Ghost3987/DUMP.git
+cd DUMP
+chmod +x *
+ls
+python Dump.py
 ```
 
 * ENJOY🥵🔥
